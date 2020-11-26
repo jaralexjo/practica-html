@@ -1,0 +1,44 @@
+/*CSS Display hoja1.css */
+
+header {
+	background-color: MistyRose;
+}
+
+.cabecera {
+	font-size: 1.4em;
+}
+
+img {
+	vertical-align: middle;
+}
+
+ul {
+	background-color: bisque;
+}
+
+li {
+	/*display: inline;*/
+	display: inline-block;
+	width: 24%;
+}
+
+main {
+	background-color: azure;
+}
+
+section {
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+a {
+	background-color: beige;
+	display: none;
+	
+}
+
+
+
+
+
